@@ -2,6 +2,8 @@
 
 加油吧，少年！
 
+[网站仓库](https://github.com/wonderNefelibata/wonderNefelibata.github.io)
+
 # 目录
 1. Markdown教程
 2. 深度学习
@@ -14,6 +16,9 @@
 ## 2. 深度学习  
 - 书籍
    - 3B1B推荐：<http://neuralnetworksanddeeplearning.com/>     (有哈工大的中文译本)
+- 网站
+   - 机器学习算法讲解Distill：<https://distill.pub/>
+   - 
 
 
 
