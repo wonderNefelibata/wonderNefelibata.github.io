@@ -4,6 +4,8 @@
 
 [网站仓库](https://github.com/wonderNefelibata/wonderNefelibata.github.io)
 
+阿里云服务器学生特权：<https://university.aliyun.com/mobile?clubTaskBiz=subTask..11568048..10216..&userCode=51vnicji>
+
 # 目录
 - Markdown教程
 - 深度学习
