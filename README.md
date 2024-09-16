@@ -39,6 +39,11 @@
  
 ## 电子书网站
 
-- <https://github.com/zhangbc/eBooks/tree/master> 
+- <https://github.com/zhangbc/eBooks/tree/master>
+
+## 工具软件
+
+- 教程
+   - 一分钟上手Zotero：<https://github.com/sanbuphy/easy-zotero>
 
 
