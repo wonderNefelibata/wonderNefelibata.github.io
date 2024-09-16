@@ -33,6 +33,9 @@
 - 教程
    - pytorch：<https://datawhalechina.github.io/thorough-pytorch/>
    - pandas: <https://github.com/datawhalechina/joyful-pandas>
+- 大模型应用开发
+   - 茴香豆（群聊聊天机器人）：<https://github.com/InternLM/HuixiangDou/tree/main>
+   - 天机（SocialAI，来事儿AI，人情世故）：<https://github.com/SocialAI-tianji/Tianji>
  
 ## 算法
 - leetcode-notes：<https://datawhalechina.github.io/leetcode-notes/#/>
