@@ -20,6 +20,7 @@
 ## 深度学习  
 - 书籍
    - 神经网络教程（3B1B推荐）：<http://neuralnetworksanddeeplearning.com/>     (有哈工大的中文译本)
+   - 动手学深度学习：<https://zh-v2.d2l.ai/index.html>
    - 深度学习花书（中文版）：<https://github.com/exacity/deeplearningbook-chinese?tab=readme-ov-file>
    - 机器学习-西瓜书：<https://github.com/KirigiriSuzumiya/MelonBookLearning/blob/main>
    - 机器学习-南瓜书：<https://github.com/datawhalechina/pumpkin-book>
