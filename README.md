@@ -35,6 +35,7 @@
    - 大模型应用开发教程：<https://github.com/datawhalechina/llm-universe>
 - 教程
    - pytorch：<https://datawhalechina.github.io/thorough-pytorch/>
+   - pytorch优先看这个吧：<https://github.com/yunjey/pytorch-tutorial?tab=readme-ov-file>
    - pandas: <https://github.com/datawhalechina/joyful-pandas>
 - 大模型应用开发
    - 茴香豆（群聊聊天机器人）：<https://github.com/InternLM/HuixiangDou/tree/main>
