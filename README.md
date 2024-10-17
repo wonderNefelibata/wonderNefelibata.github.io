@@ -10,6 +10,7 @@
 - 资源
   - https://github.com/quchangle1/LLM-Tool-Survey
   - https://github.com/luban-agi/Awesome-Tool-Learning
+  - https://github.com/AngxiaoYue/awesome-llm-tool-learning
 
 # 目录
 - Markdown教程
