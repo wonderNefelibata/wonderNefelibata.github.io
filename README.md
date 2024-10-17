@@ -6,6 +6,11 @@
 
 阿里云服务器学生特权：<https://university.aliyun.com/mobile?clubTaskBiz=subTask..11568048..10216..&userCode=51vnicji>
 
+# 当前工作：Tool Leaning of LLM
+- 资源
+  - https://github.com/quchangle1/LLM-Tool-Survey
+  - https://github.com/luban-agi/Awesome-Tool-Learning
+
 # 目录
 - Markdown教程
 - 深度学习
