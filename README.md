@@ -10,6 +10,7 @@
 - 工具学习相关资源
   - <https://github.com/quchangle1/LLM-Tool-Survey>
   - <https://github.com/luban-agi/Awesome-Tool-Learning>
+  - <https://github.com/thunlp/ToolLearningPapers>
   - <https://github.com/AngxiaoYue/awesome-llm-tool-learning>
   - <https://papers.cool/arxiv/search?highlight=1&query=tool+learning>
   - <https://papers.cool/arxiv/search?highlight=1&query=tool+learning+LLM>
