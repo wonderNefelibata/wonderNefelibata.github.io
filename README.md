@@ -27,6 +27,10 @@
 - 算法
 - 电子书网站
 
+## LLM学习
+- LLM知识<https://github.com/wdndev/llm_interview_note/blob/main/01.%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%E5%9F%BA%E7%A1%80/1.llm%E6%A6%82%E5%BF%B5/1.llm%E6%A6%82%E5%BF%B5.md>
+- 从0实现一个LLaMA3<https://github.com/naklecha/llama3-from-scratch>
+
 ## Markdown教程
 
 - Markdown官方教程： <https://markdown.com.cn>
