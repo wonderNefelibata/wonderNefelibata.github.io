@@ -72,5 +72,7 @@
 
 - 教程
    - 一分钟上手Zotero：<https://github.com/sanbuphy/easy-zotero>
+## 朋友交流
+- OS2EDU:<https://hoac-os2edu.github.io/HOAC-OS2EDU/>
 
 
