@@ -6,20 +6,11 @@
 
 阿里云服务器学生特权：<https://university.aliyun.com/mobile?clubTaskBiz=subTask..11568048..10216..&userCode=51vnicji>
 
-# 当前工作：Tool Leaning of LLM
-- 工具学习相关资源
-  - <https://github.com/quchangle1/LLM-Tool-Survey>
-  - <https://github.com/luban-agi/Awesome-Tool-Learning>
-  - <https://github.com/thunlp/ToolLearningPapers>
-  - <https://github.com/AngxiaoYue/awesome-llm-tool-learning>
-  - <https://papers.cool/arxiv/search?highlight=1&query=tool+learning>
-  - <https://papers.cool/arxiv/search?highlight=1&query=tool+learning+LLM>
-  - <https://papers.cool/arxiv/search?highlight=1&query=tool+usage+llm>
-- 大模型安全相关
-  - <https://github.com/ydyjya/Awesome-LLM-Safety/blob/main/README_cn.md>
-  - [★]<https://github.com/ThuCCSLab/Awesome-LM-SSP>
-  - <https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs>
-  - <https://github.com/search?q=llm+safety&type=repositories>
+- ### Tool Leaning of LLM：<https://github.com/wonderNefelibata/tool-learning-resource/blob/main/README.md>
+- ### AI agent：<https://github.com/wonderNefelibata/ai-agent-resource/blob/main/README.md>
+- ### AI safety：<https://github.com/wonderNefelibata/ai-safety-resource/blob/main/README.md>
+
+
 # 目录
 - Markdown教程
 - 深度学习
