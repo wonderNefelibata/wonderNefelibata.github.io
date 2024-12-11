@@ -2,13 +2,16 @@
 
 加油吧，少年！
 
-[网站仓库](https://github.com/wonderNefelibata/wonderNefelibata.github.io)
+[本站仓库，欢迎star](https://github.com/wonderNefelibata/wonderNefelibata.github.io)
 
-阿里云服务器学生特权：<https://university.aliyun.com/mobile?clubTaskBiz=subTask..11568048..10216..&userCode=51vnicji>
+★★★阿里云服务器学生特权：<https://university.aliyun.com/mobile?clubTaskBiz=subTask..11568048..10216..&userCode=51vnicji>
 
-- ### Tool Leaning of LLM：<https://github.com/wonderNefelibata/tool-learning-resource/blob/main/README.md>
-- ### AI agent：<https://github.com/wonderNefelibata/ai-agent-resource/blob/main/README.md>
-- ### AI safety：<https://github.com/wonderNefelibata/ai-safety-resource/blob/main/README.md>
+- ### Tool Leaning of LLM：
+  <https://github.com/wonderNefelibata/tool-learning-resource/blob/main/README.md>
+- ### AI agent：
+  <https://github.com/wonderNefelibata/ai-agent-resource/blob/main/README.md>
+- ### AI safety：
+  <https://github.com/wonderNefelibata/ai-safety-resource/blob/main/README.md>
 
 
 # 目录
